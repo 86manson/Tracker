@@ -1,8 +1,6 @@
 import pandas as pd
 import streamlit as st
-import base64
-import plotly.express as px
-from PIL import Image
+
 
 st.set_page_config(page_title='Tracker',
                    layout='wide')
